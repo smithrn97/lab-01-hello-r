@@ -1,7 +1,7 @@
 ---
 title: "Lab 01 - Hello R"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Rebecca Smith"
+date: "02/02/2021"
 output: github_document
 ---
 
@@ -16,7 +16,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-Remove this text, and add your answer for Exercise 1 here.
+This file has 1846 rows and 3 columns. The variables incldued in the data frame are the dataset, the x-values, and the y-values.
 
 ### Exercise 2
 
